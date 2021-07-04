@@ -1,5 +1,3 @@
-# robi.reading-note-
-
 ## Welcome To My Page! 👜
 I am Robin and you can access my profile from this link - https://github.com/Rapparicio
 
