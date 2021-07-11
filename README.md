@@ -148,6 +148,7 @@ Undoing changes in vi is fairly easy. It is the character u.
  
 **Summary**
 No mouse
+	
 vi is a text editor where everything is done on the keyboard. If you can touch type then this is great. If not then maybe you should think about learning.
 Edit commands
 There are many of them. Practice is the key to remember the most commonly used and useful ones.
