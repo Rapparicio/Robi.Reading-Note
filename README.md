@@ -27,15 +27,17 @@ Get comfortable with GitHub
 ## Chose Text Editors 
 Software that is available for download to help write and manage text.  This is incredibly useful according to the article by The Older Coder. 
 
-*What features should you look for in a text editor? I would say some of the most important features are: 
+***What features should you look for in a text editor? I would say some of the most important features are:***
+
 - code completion; 
 - syntax highlighting; 
 - a nice variety of themes (to reduce eye strain and fatigue); and 
 - the ability to choose from a healthy selection of extensions available when you need them. 
-You might find some other features that are must-have’s, but I think these features are a good start.*
+You might find some other features that are must-have’s, but I think these features are a good start.
+
 
 The way one codes is very individualised like a signature.  And the selection of a text editor should be based on needs and ways in which the coder feel most comfortable.  Computers like mine have a built in editor but there are lot of different editors to choose from - Notepad, TextWrangler, BB Edits, Visual Studio Code, Atom, Brackets, as well as Sublime Text.
 
-IDE- Integrated Development Environment 
+***IDE- Integrated Development Environment*** 
   1. This is a string of software pulled together, it is an all in one.  
   1. Pulling together features one may like from different text editing softwares. 
