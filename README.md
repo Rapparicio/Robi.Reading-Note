@@ -8,10 +8,6 @@ I have always considered myself a lifelong learner.  I have been willing to take
   - The adage is true -  *Hard work is its own reward.*
   - Lifelong learners take a risk.
   
-# Learning Blog
-
-The first few assignments have been about understanding the need for a growth mindset when it comes to learning something new.  In this case I am learning the basics about 
-software development.  It is important to concentrate on the various elements of basic coding in order to set up your web page successfully.  This learning blog is designed highlight some key things. Important elements that go beyond what can be googled. 
 
 ## Setting up my pages - Markdowns
 According to guides.github.com, > Markdowns are ways to style on the web.> This is an opportunity to use your creative expression.  You decide how your pages will look, 
