@@ -154,3 +154,5 @@ Edit commands
 There are many of them. Practice is the key to remember the most commonly used and useful ones.
 
 [link to test file](./Test.md)
+
+[Learning Blog](./Learning Blog.md)	
