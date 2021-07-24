@@ -7,6 +7,8 @@ I have always considered myself a lifelong learner.  I have been willing to take
   - Do not fight against a challenging concept; take it head-on and don't complain about it.
   - The adage is true -  *Hard work is its own reward.*
   - Lifelong learners take a risk.
+  
+ [TABLE OF CONTENT](CONTENT.md) 
 
 [Learning Blog](https://github.com/Rapparicio/Robi.Reading-Note-/blob/main/Learning%20Blog.md)	
 	
