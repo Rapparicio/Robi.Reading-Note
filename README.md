@@ -24,7 +24,7 @@ Get comfortable with GitHub
 - Typing the @ symbol followed by someone's name will alert them to your project this is useful for teams and for other people you want to view your site. 
 - To create a paragraph, live a blank line between the text.
 
-## Chose Text Editors 
+# Chose Text Editors 
 Software that is available for download to help write and manage text.  This is incredibly useful according to the article by The Older Coder. 
 
 ***What features should you look for in a text editor? I would say some of the most important features are:***
