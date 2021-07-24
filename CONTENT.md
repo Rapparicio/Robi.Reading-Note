@@ -1,3 +1,5 @@
 #Table of Content
+
 [Learning Blog](LearningBlog.md)
-[Text Editor)(TextEditor.md)
+
+[Text Editor](TextEditor.md)
