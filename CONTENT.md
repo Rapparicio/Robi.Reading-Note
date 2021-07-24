@@ -3,3 +3,5 @@
 [Learning Blog](LearningBlog.md)
 
 [Text Editor](TextEditor.md)
+
+[Git](Git.md)
