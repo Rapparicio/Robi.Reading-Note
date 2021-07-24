@@ -157,4 +157,4 @@ There are many of them. Practice is the key to remember the most commonly used a
 
 [Learning Blog](https://github.com/Rapparicio/Robi.Reading-Note-/blob/main/Learning%20Blog.md)	
 	
-[Text Editors](./TextEditors.md)
+[Text Editors](https://github.com/Rapparicio/Robi.Reading-Note-/blob/main/Text%20Editors.md)
