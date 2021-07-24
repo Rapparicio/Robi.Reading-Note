@@ -155,4 +155,4 @@ There are many of them. Practice is the key to remember the most commonly used a
 
 [link to test file](./Test.md)
 
-[Learning Blog](./LearningBlog.md)	
+[Learning Blog](https://github.com/Rapparicio/Robi.Reading-Note-/blob/main/Learning%20Blog.md)	
