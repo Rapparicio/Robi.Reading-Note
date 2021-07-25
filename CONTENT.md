@@ -1,9 +1,9 @@
-#Table of Content
+# Table of Content
 
-[Learning Blog](LearningBlog.md)
+- [Learning Blog](LearningBlog.md)
 
-[Text Editor](TextEditor.md)
+- [Text Editor](TextEditor.md)
 
-[Git](Git.md)
+- [Git](Git.md)
 
-[Wireframe](./Wireframe.md)
+- [Wireframe](./Wireframe.md)
