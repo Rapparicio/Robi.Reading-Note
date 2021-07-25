@@ -6,4 +6,4 @@
 
 [Git](Git.md)
 
-[Wireframe] (./Wireframe.md)
+[Wireframe](./Wireframe.md)
