@@ -18,3 +18,5 @@ I have always considered myself a lifelong learner.  I have been willing to take
 [Git](./Git.md)
 
 [CSS](./CSS.md)
+
+[Intro JavaScript](./IntroJavaScript.md)
