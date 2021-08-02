@@ -20,3 +20,5 @@ I have always considered myself a lifelong learner.  I have been willing to take
 [CSS](./CSS.md)
 
 [Intro JavaScript](./IntroJavaScript.md)
+
+[Programming with JS](https://github.com/Rapparicio/Robi.Reading-Note-/blob/main/Programming%20with%20JS.md)
